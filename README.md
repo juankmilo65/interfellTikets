@@ -7,9 +7,9 @@
 NOTE: As a premise, you should have install Docker in your machine, else you should follow the next link
 https://docs.docker.com/docker-for-windows/install/
 
-1) This project is implementing db mongodb with Docker, to run I suggest to follow the steps.
+# This project is implementing db mongodb with Docker, to run I suggest to follow the steps.
 
-Docker setup
+## 1) Docker setup
 
 Install Docker client in you machine, 
 
@@ -26,29 +26,28 @@ Windows
  *Accept all the changes
 
 
-*Download Mongo docker (this)
+## A) *Download Mongo docker (this)
 In your terminal you can 
 docker pull mongo
 
-*Mongo instance exec.
-
+## B) *Mongo instance exec.
 type and run the command:
 docker run -p 27018:27017 --name mongoTickets mongo
 
-*Validation Docker connection 
-
+## C) *Validation Docker connection 
 In a new terminal run the code
 mongo localhost:27018
 to check please type,  show dbs, this should show you 3 main dbs.
 
+#OPTIONAL
 ---Those steps are no necesary , just if you need to stop and continue working after, you can do implement that.
 
 Please check that you replace the conten inside and delete quotes  
 
-*Stop Docker
+## *Stop Docker
 docker stop "containerId"
 
-*Run old content
+## *Run old content
 
 docker container start mongoTickets
 
@@ -58,9 +57,9 @@ Note
 
 
 
-C# Configuration
+## 2) C# Configuration
 
-to working with sensitive variables I use "user-secrets"
+To working with sensitive variables I use "user-secrets"
 
 in .net project the connection string was init by 
 dotnet user-secrets init -p Tickets.Api
