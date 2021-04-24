@@ -1,0 +1,9 @@
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\bin\Debug\netstandard2.0\Tickets.Core.deps.json
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\bin\Debug\netstandard2.0\Tickets.Core.dll
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\bin\Debug\netstandard2.0\Tickets.Core.pdb
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\obj\Debug\netstandard2.0\Tickets.Core.csprojAssemblyReference.cache
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\obj\Debug\netstandard2.0\Tickets.Core.AssemblyInfoInputs.cache
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\obj\Debug\netstandard2.0\Tickets.Core.AssemblyInfo.cs
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\obj\Debug\netstandard2.0\Tickets.Core.csproj.CoreCompileInputs.cache
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\obj\Debug\netstandard2.0\Tickets.Core.dll
+D:\Trabajo\Tickets\Tickets.Api\Tickets.Core\obj\Debug\netstandard2.0\Tickets.Core.pdb
