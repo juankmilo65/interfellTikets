@@ -20,7 +20,7 @@ Windows
  -Download https://www.mongodb.com/try/download/community and Install
  
  -Add the execution path MongoDB to envviroment variables.
- -Seek for Edition enviroment variables.
+ -Seek for editing environment variables.
  -In the tab advance options, looking for Enviroment Varables
  -In path row we will add a new variable, in my personal case C:\Program Files\MongoDB\Server\4.4\bin
  *Accept all the changes
@@ -39,7 +39,7 @@ In a new terminal run the code
 mongo localhost:27018
 to check please type,  show dbs, this should show you 3 main dbs.
 
-#OPTIONAL
+# OPTIONAL
 ---Those steps are no necesary , just if you need to stop and continue working after, you can do implement that.
 
 Please check that you replace the conten inside and delete quotes  
