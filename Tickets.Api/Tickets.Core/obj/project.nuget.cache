@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VHNFyy9ZGU1IjV5h1ii/zhJb6k3b8rwda36CBOOUFHokVhb/o8enKHRGT7TEzsqmBgQYBwhLn6sKKOR57ETbiA==",
+  "dgSpecHash": "yh3+jTpprNSGcGOrMEBlkfG/qxpnwDKRExwfQbVB0Vv0ab4f/Ef7PwcY9YrVKCO0oMdH3LiA9XtFwJS4dJwjaw==",
   "success": true,
   "projectFilePath": "D:\\Trabajo\\Tickets\\Tickets.Api\\Tickets.Core\\Tickets.Core.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\juank\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\juank\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\juank\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\juank\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\juank\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
     "C:\\Users\\juank\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",

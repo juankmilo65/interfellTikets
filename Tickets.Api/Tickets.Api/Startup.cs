@@ -12,6 +12,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Tickets.Core;
+using Tickets.Core.DbConfig;
+using Tickets.Core.Interfaces;
+using Tickets.Core.Services;
 
 namespace Tickets.Api
 {

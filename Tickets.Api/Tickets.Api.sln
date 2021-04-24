@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickets.Api", "Tickets.Api\Tickets.Api.csproj", "{6CEAE15D-3CD9-4C5F-8E18-80EB569B3950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tickets.Api", "Tickets.Api\Tickets.Api.csproj", "{6CEAE15D-3CD9-4C5F-8E18-80EB569B3950}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickets.Core", "Tickets.Core\Tickets.Core.csproj", "{1F31DED1-1AA4-444D-BAEA-7DB278F78CC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tickets.Core", "Tickets.Core\Tickets.Core.csproj", "{1F31DED1-1AA4-444D-BAEA-7DB278F78CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestTicket.Core", "XUnitTestTicket.Core\XUnitTestTicket.Core.csproj", "{F83358D6-B125-48CC-9C16-FCDCAB979083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1F31DED1-1AA4-444D-BAEA-7DB278F78CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F31DED1-1AA4-444D-BAEA-7DB278F78CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F31DED1-1AA4-444D-BAEA-7DB278F78CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83358D6-B125-48CC-9C16-FCDCAB979083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83358D6-B125-48CC-9C16-FCDCAB979083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83358D6-B125-48CC-9C16-FCDCAB979083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83358D6-B125-48CC-9C16-FCDCAB979083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
