@@ -18,5 +18,19 @@ namespace Tickets.Api.Controllers
         {
             return Ok(_ticketService.GetTickets());
         }
+
+        [HttpGet("{id}", Name = "GetTicket")]
+        public IActionResult GetTicket(string id)
+        {
+            return  Ok(_ticketService.GetTicket(id));
+        }
+
+
+        [HttpPost]
+        public IActionResult AddTickets(Ticket ticket)
+        {
+            _ticketService.AddTicket(ticket);
+            return CreatedAtRoute("GetTicket", new { id = ticket.Id }, ticket);
+        }
     }
 }
